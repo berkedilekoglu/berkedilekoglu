@@ -31,6 +31,9 @@
 
 <div align="center">
  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="200" height="200">
+ 
+ Hello! I generally work in the field of machine learning with Python. Specifically, I am interested in Natural Language Processing, Bioinformatics and Time Series. In addition, I am also interested in the areas of API development and deployment in order to make the models accessible to end-user.
+ 
 </div>
 
 ---
@@ -39,6 +42,8 @@
 </h2>
 
 - :telescope: I’m working as a Machine Learning Engineer.
+
+- :mortar_board: How to reach my publications: [Google Scholar](https://scholar.google.com/citations?user=9O8ciUEAAAAJ&hl=tr&authuser=1)
 
 - :zap: In my free time, I am writing blog posts on Medium related to things I have learned about Machine Learning.
 
@@ -59,6 +64,7 @@
   
  
  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tf" alt="Tf" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
