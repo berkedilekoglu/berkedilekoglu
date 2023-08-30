@@ -41,7 +41,7 @@
   :mage:	About Me:
 </h2>
 
-- :telescope: I’m working as a Machine Learning Engineer at Ginoa.io.
+- :telescope: I’m working as a NLP Engineer at Areal.ai.
 
 - :mortar_board: How to reach my publications: [Google Scholar](https://scholar.google.com/citations?user=9O8ciUEAAAAJ&hl=tr&authuser=1)
 
